@@ -1,2 +1,4 @@
 numba
 cupy
+matplotlib
+pygame
